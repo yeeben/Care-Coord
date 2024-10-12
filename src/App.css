@@ -1,3 +1,11 @@
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
 .button {
   background-color: #1976d2;
   color: #fff;
@@ -7,14 +15,21 @@
 .text-field {
   background-color: #f5f5f5;
   color: #000;
-  width: 100%;
+  width: 50%;
   margin-top: 10px;
 }
 
-.center-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
+
+.text-field-custom {
+  width: 700px;
+  line-height: 3;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  padding: 8px 12px;
+  border-radius: 8px;
+  color: #1C2025;
+  background: #DAE2ED;
+  border: 1px solid #434D5B;
+  box-shadow: 0px 2px 2px #1C2025;
 }
