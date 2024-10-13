@@ -106,12 +106,6 @@ const CarePlan: React.FC = () => {
                                   tabIndex={-1}
                                   disableRipple
                                   onChange={() => handleToggle(itemKey)}
-                                  sx={{
-                                    color: 'white',
-                                    '&.Mui-checked': {
-                                      color: 'white',
-                                    },
-                                  }}
                                 />
                               </ListItemIcon>
                               <ListItemText primary={item} />
