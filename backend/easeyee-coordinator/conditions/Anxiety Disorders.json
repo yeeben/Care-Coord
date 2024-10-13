@@ -1,0 +1,79 @@
+{
+  "Medical Care Coordination": [
+    "Schedule regular follow-ups with primary care physician (PCP)",
+    "Coordinate with mental health providers (psychiatrist, psychologist, or therapist)",
+    "Monitor medications for anxiety (e.g., SSRIs, benzodiazepines)",
+    "Assess for side effects or medication adherence issues",
+    "Coordinate with other healthcare providers for co-occurring conditions (e.g., depression, insomnia)",
+    "Develop a crisis intervention plan for acute anxiety or panic attacks"
+  ],
+  "Therapy and Counseling Coordination": [
+    "Arrange Cognitive Behavioral Therapy (CBT) sessions",
+    "Coordinate with therapist for Exposure Therapy (if applicable)",
+    "Facilitate access to Dialectical Behavioral Therapy (DBT) or Acceptance and Commitment Therapy (ACT)",
+    "Provide resources for group therapy or support groups for anxiety",
+    "Ensure regular check-ins with therapists and counselors"
+  ],
+  "Personal Care and Daily Living Support": [
+    "Assist with establishing daily routines to reduce anxiety",
+    "Provide reminders for self-care activities (hygiene, nutrition)",
+    "Encourage physical activity (e.g., yoga, walking) to manage symptoms",
+    "Monitor for signs of avoidance behaviors affecting daily living",
+    "Support the patient with goal-setting and time management strategies"
+  ],
+  "Nutrition and Lifestyle Management": [
+    "Educate on nutrition's role in managing anxiety (reduce caffeine, sugar)",
+    "Encourage balanced meals to stabilize mood and energy",
+    "Promote hydration and regular eating schedules",
+    "Collaborate with dietitians for specific nutritional needs (if needed)",
+    "Encourage healthy sleep habits to reduce anxiety"
+  ],
+  "Physical Activity and Relaxation Techniques": [
+    "Develop a physical activity plan (e.g., walking, swimming) to release tension",
+    "Teach relaxation techniques (breathing exercises, progressive muscle relaxation)",
+    "Promote mindfulness practices (e.g., meditation, guided imagery)",
+    "Encourage participation in activities that bring joy and reduce stress",
+    "Offer referrals for yoga or tai chi classes"
+  ],
+  "Social Engagement and Community Involvement": [
+    "Assist in identifying social activities to reduce isolation",
+    "Encourage participation in support groups or peer networks",
+    "Help the patient reconnect with friends and family",
+    "Identify volunteer opportunities or hobbies to foster engagement",
+    "Monitor for signs of social withdrawal or avoidance"
+  ],
+  "Family and Caregiver Support": [
+    "Provide education to family on anxiety disorders and how to offer support",
+    "Facilitate family meetings to address concerns and set expectations",
+    "Offer respite care to relieve family caregivers (if needed)",
+    "Provide referrals for family counseling (if appropriate)",
+    "Connect caregivers with support groups for family members of individuals with anxiety"
+  ],
+  "Safety and Crisis Planning": [
+    "Develop a personalized safety plan for panic attacks or acute anxiety episodes",
+    "Identify and minimize triggers in the home environment",
+    "Provide information on 24/7 crisis hotlines and resources",
+    "Educate on managing anxiety-related behaviors (e.g., avoidance, irritability)",
+    "Create an emergency contact list for patient and caregivers"
+  ],
+  "Technology and Self-Monitoring Tools": [
+    "Introduce apps for mindfulness, meditation, or anxiety management",
+    "Provide journaling tools to track symptoms and triggers",
+    "Explore the use of wearable technology to monitor stress levels (if appropriate)",
+    "Encourage use of reminders for medication and therapy sessions",
+    "Provide telehealth options for ongoing therapy and counseling"
+  ],
+  "Legal and Financial Coordination": [
+    "Assist in applying for disability benefits (if needed)",
+    "Provide information on insurance coverage for mental health services",
+    "Help the patient access financial support or community resources",
+    "Collaborate with legal professionals for guardianship or care planning (if necessary)",
+    "Provide education on managing finances if anxiety impacts financial decision-making"
+  ],
+  "End-of-Life and Long-Term Planning": [
+    "Discuss advance care planning and mental health directives",
+    "Coordinate long-term care options (if necessary)",
+    "Provide palliative care options for co-occurring chronic conditions",
+    "Offer emotional and spiritual support for long-term mental health management"
+  ]
+}

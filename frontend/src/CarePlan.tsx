@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { Typography, List, ListItem, ListItemIcon, ListItemText } from '@mui/material';
-import CheckIcon from '@mui/icons-material/Check';
+import { Typography } from '@mui/material';
+import { json, useLocation } from 'react-router-dom';
 import axios from 'axios';
 
 
@@ -14,10 +14,10 @@ const CarePlan: React.FC = () => {
     const postConditions = async () => {
       try {
         const data = JSON.stringify({
-          conditions: [selectedConditions]
+          conditions: selectedConditions
         });
 
-
+        
         const config = {
           method: 'post',
           maxBodyLength: Infinity,
@@ -29,7 +29,6 @@ const CarePlan: React.FC = () => {
         };
 
         const response = await axios.request(config);
-        console.log('Response:', response?.data);
         setRawJsonResponse(response?.data);
       } catch (error) {
         console.error('Error:', error);
@@ -56,21 +55,10 @@ const CarePlan: React.FC = () => {
         </Typography>
       )}
 
-{rawJsonResponse && rawJsonResponse["data"] ? (
-        Object.keys(rawJsonResponse["data"]).map((condition, index) => (
-          <div key={index}>
-            <List>
-              {rawJsonResponse["data"][condition].map((item: string, itemIndex: number) => (
-                <ListItem key={itemIndex}>
-                  <ListItemIcon>
-                    <CheckIcon />
-                  </ListItemIcon>
-                  <ListItemText primary={item} />
-                </ListItem>
-              ))}
-            </List>
-          </div>
-        ))
+      {rawJsonResponse ? (
+        <Typography variant="body1">
+          {JSON.stringify(rawJsonResponse)}
+        </Typography>
       ) : (
         <Typography variant="body1">
           No response from server.

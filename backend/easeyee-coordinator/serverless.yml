@@ -1,0 +1,21 @@
+service: easeyee-coordinator
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.9
+  httpApi:
+    cors: true
+
+
+plugins:
+  - serverless-python-requirements
+  - serverless-offline
+
+functions:
+  hello:
+    handler: handler.symptom_retrieval
+    events:
+      - httpApi:
+          path: /
+          method: post

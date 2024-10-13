@@ -1,0 +1,75 @@
+{
+  "Medical Care Coordination": [
+    "Schedule regular visits with primary care physician (PCP)",
+    "Monitor and manage medications (including those for dementia and comorbidities)",
+    "Coordinate with neurologist or psychiatrist for ongoing cognitive care",
+    "Schedule routine health screenings (e.g., blood pressure, diabetes, cholesterol)",
+    "Arrange medication management tools (e.g., pill organizers, blister packs)",
+    "Monitor for behavioral changes or adverse medication reactions"
+  ],
+  "Cognitive And Behavioral Management": [
+    "Develop individualized cognitive stimulation activities (e.g., puzzles, music therapy)",
+    "Monitor behavioral changes and intervene early for agitation, anxiety, or wandering",
+    "Coordinate therapy for cognitive rehabilitation (if applicable)",
+    "Collaborate with mental health professionals for depression or anxiety treatment",
+    "Provide training to caregivers on behavioral management strategies",
+    "Develop a personalized daily routine for structure and familiarity"
+  ],
+  "Personal Care Assistance": [
+    "Assist with grooming, bathing, and hygiene routines",
+    "Support with dressing and incontinence care",
+    "Ensure proper oral and dental care",
+    "Provide reminders or supervision during meals",
+    "Assist with toileting and mobility (as needed)"
+  ],
+  "Nutrition And Meal Planning": [
+    "Develop meal plans with a nutritionist to meet dietary needs",
+    "Monitor food intake to prevent malnutrition or dehydration",
+    "Assist with feeding (if needed)",
+    "Manage any dietary restrictions (e.g., diabetes, allergies)",
+    "Educate family on nutritional strategies for Alzheimer’s patients"
+  ],
+  "Safety And Fall Prevention": [
+    "Conduct a home safety assessment",
+    "Install safety equipment (grab bars, non-slip rugs, night lights)",
+    "Monitor for wandering or unsafe behaviors",
+    "Provide or recommend personal emergency response systems (PERS)",
+    "Create an emergency plan with contacts for caregivers and family",
+    "Educate family and caregivers on fall prevention strategies"
+  ],
+  "Social Engagement And Companionship": [
+    "Plan and schedule social activities to prevent isolation (e.g., group activities, visits)",
+    "Encourage participation in senior centers or Alzheimer’s support groups",
+    "Match patient with a caregiver for companionship",
+    "Coordinate pet therapy or music therapy sessions",
+    "Engage patient with meaningful tasks (e.g., folding laundry, gardening)"
+  ],
+  "Family And Caregiver Support": [
+    "Provide caregiver training on Alzheimer’s care techniques and coping strategies",
+    "Offer respite care to relieve family caregivers",
+    "Facilitate family meetings to discuss care goals and progress",
+    "Connect family with Alzheimer’s support groups",
+    "Provide educational resources on the disease and care management",
+    "Offer emotional support and counseling referrals to family caregivers"
+  ],
+  "Legal And Financial Coordination": [
+    "Assist with advance care planning (living wills, power of attorney)",
+    "Provide information on Medicare, Medicaid, and insurance benefits",
+    "Connect with legal professionals for guardianship or estate planning (if needed)",
+    "Support in applying for government assistance programs",
+    "Help family manage long-term care costs"
+  ],
+  "Transportation And Mobility Support": [
+    "Arrange transportation for medical appointments",
+    "Coordinate with family or caregivers for outings and activities",
+    "Assist with mobility devices (e.g., walkers, wheelchairs)",
+    "Schedule physical or occupational therapy (as needed)"
+  ],
+  "End Of Life And Palliative Care Planning": [
+    "Discuss advance directives and care preferences with family",
+    "Coordinate palliative care services (if appropriate)",
+    "Monitor for changes in health that may indicate a need for hospice care",
+    "Offer emotional and spiritual support to patient and family",
+    "Ensure continuity of care with palliative or hospice teams"
+  ]
+}

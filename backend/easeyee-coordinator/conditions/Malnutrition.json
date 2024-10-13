@@ -1,0 +1,87 @@
+{
+    "Medical Care Coordination": [
+      "Schedule regular follow-ups with primary care physician (PCP) and dietitian",
+      "Monitor for underlying medical conditions contributing to malnutrition (e.g., chronic illness, eating disorders)",
+      "Perform regular blood tests to check nutrient levels (e.g., iron, vitamins, electrolytes)",
+      "Manage medications that may affect appetite or nutrient absorption",
+      "Develop an emergency plan for severe cases of malnutrition (e.g., dehydration, organ dysfunction)"
+    ],
+    "Nutritional Support and Meal Planning": [
+      "Collaborate with a dietitian to develop a personalized meal plan",
+      "Provide high-calorie and nutrient-dense foods to promote weight gain and recovery",
+      "Offer supplements (e.g., vitamins, minerals, protein shakes) as recommended by healthcare providers",
+      "Introduce small, frequent meals to ease digestion and improve nutrient intake",
+      "Monitor food intake and adjust the meal plan based on weight changes"
+    ],
+    "Hydration Management": [
+      "Encourage regular fluid intake to prevent dehydration",
+      "Provide oral rehydration solutions if dehydration is detected",
+      "Monitor for signs of fluid retention or electrolyte imbalances",
+      "Coordinate with healthcare providers to manage intravenous hydration if needed",
+      "Limit diuretics or medications that may worsen dehydration"
+    ],
+    "Medication Management": [
+      "Coordinate with healthcare providers to manage appetite stimulants if necessary",
+      "Monitor for side effects of medications that affect nutrient absorption",
+      "Provide education on avoiding over-the-counter supplements that may interfere with prescribed medications",
+      "Develop a medication schedule to manage coexisting conditions",
+      "Ensure proper coordination with a pharmacist to avoid drug-nutrient interactions"
+    ],
+    "Physical Activity and Strength Support": [
+      "Develop a light physical activity plan to maintain muscle mass and strength",
+      "Provide referrals to physical therapy if muscle weakness or mobility issues are present",
+      "Encourage gentle exercises like walking or yoga to promote circulation",
+      "Monitor for signs of fatigue and adjust activities accordingly",
+      "Incorporate strength training gradually as physical condition improves"
+    ],
+    "Mental Health and Emotional Support": [
+      "Assess for depression, anxiety, or eating disorders contributing to malnutrition",
+      "Provide referrals to mental health professionals for counseling or therapy",
+      "Encourage participation in support groups for individuals dealing with eating challenges",
+      "Offer emotional support to address the psychological impact of malnutrition",
+      "Involve family members in mental health care when appropriate"
+    ],
+    "Social Engagement and Community Involvement": [
+      "Encourage participation in social activities to reduce isolation",
+      "Coordinate with meal programs (e.g., Meals on Wheels) or community food services",
+      "Connect the individual with support networks focused on healthy eating habits",
+      "Identify hobbies or activities that bring joy and improve appetite",
+      "Promote involvement in group meals or cooking classes to encourage healthy eating"
+    ],
+    "Family and Caregiver Support": [
+      "Provide education to caregivers on managing malnutrition and meal preparation",
+      "Facilitate family meetings to set care goals and monitor progress",
+      "Offer respite care to relieve family caregivers if needed",
+      "Connect caregivers with support networks or community resources",
+      "Provide emotional support and counseling referrals to caregivers"
+    ],
+    "Home Safety and Accessibility": [
+      "Ensure access to the kitchen and food storage areas for independent meal preparation",
+      "Provide adaptive kitchen tools for individuals with mobility challenges",
+      "Conduct a safety assessment to prevent falls or accidents during meal preparation",
+      "Install nightlights and non-slip rugs for safety in common areas",
+      "Offer personal emergency response systems (PERS) for emergencies"
+    ],
+    "Technology and Self-Monitoring Tools": [
+      "Introduce apps to track food intake and weight progress",
+      "Provide digital reminders for meal times and hydration",
+      "Encourage telehealth consultations for nutrition and medical follow-ups",
+      "Offer smart kitchen tools to assist with meal preparation",
+      "Explore wearable devices to monitor physical activity and health status"
+    ],
+    "Financial and Legal Coordination": [
+      "Assist with applying for food assistance programs (e.g., SNAP, WIC)",
+      "Provide information on financial assistance for medications and supplements",
+      "Help manage medical bills and out-of-pocket expenses",
+      "Coordinate with legal professionals for advance care planning if needed",
+      "Connect with community resources to support food security"
+    ],
+    "End-of-Life and Palliative Care Planning (If Applicable)": [
+      "Discuss care preferences and advance directives with the individual and family",
+      "Coordinate with palliative care teams to manage symptoms and comfort",
+      "Monitor for signs indicating the need for hospice care",
+      "Provide emotional and spiritual support for the individual and family",
+      "Ensure continuity of care with hospice or palliative care providers if needed"
+    ]
+  }
+  
