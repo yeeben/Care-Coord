@@ -43,6 +43,12 @@ function Home() {
   return (
     <>
       <div className="center-container">
+        <Typography variant="h1" gutterBottom>
+          Ease Yee Care
+        </Typography>
+        <br />
+        <br />
+
         <Typography variant="h4" gutterBottom>
           Begin your Care Journey Here
         </Typography>
@@ -61,6 +67,9 @@ function Home() {
         <br />
         <br />
         <Grid container spacing={1}>
+          <Typography variant="h5" gutterBottom>
+            My Parent has the following diagnoses:
+          </Typography>
           {selectedConditions.map((cond) => (
 
             <Button
