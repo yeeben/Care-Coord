@@ -19,7 +19,7 @@ const router = createBrowserRouter([
     },
     {
         path: "/careplan",
-        element: <CarePlan condition={''} />
+        element: <CarePlan />
     },
     {
       path: "/sanity",
