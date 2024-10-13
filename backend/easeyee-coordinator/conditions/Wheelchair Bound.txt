@@ -1,0 +1,94 @@
+{
+    "Medical Care Coordination": [
+      "Schedule regular follow-ups with primary care physician (PCP) and specialists as needed",
+      "Monitor for conditions related to limited mobility (e.g., pressure ulcers, muscle atrophy)",
+      "Coordinate with physical and occupational therapists for mobility support",
+      "Manage and review medications for pain, muscle spasms, or related health conditions",
+      "Develop an emergency action plan for medical crises"
+    ],
+    "Wheelchair Management and Mobility Support": [
+      "Ensure proper wheelchair fit and function with regular assessments",
+      "Provide training on safe wheelchair use and transfers",
+      "Coordinate maintenance for wheelchair and mobility aids",
+      "Explore powered wheelchairs if manual use is challenging",
+      "Provide access to ramps, elevators, and accessible transportation services"
+    ],
+    "Skin and Wound Care": [
+      "Educate on daily skin checks to prevent pressure sores",
+      "Use pressure-relief cushions and mattresses to reduce skin breakdown",
+      "Coordinate with wound care specialists for ulcers or sores",
+      "Encourage regular repositioning to prevent pressure injuries",
+      "Monitor for signs of skin infections or irritations"
+    ],
+    "Physical Activity and Range of Motion Exercises": [
+      "Develop an individualized exercise plan to maintain muscle strength",
+      "Incorporate range of motion (ROM) exercises to prevent stiffness",
+      "Coordinate with physical therapists for guided exercises",
+      "Encourage activities like wheelchair yoga or adaptive sports",
+      "Monitor for fatigue or discomfort during physical activities"
+    ],
+    "Nutrition and Weight Management": [
+      "Collaborate with a dietitian to create a balanced meal plan",
+      "Monitor for weight changes and adjust meals accordingly",
+      "Encourage proper hydration to prevent urinary tract infections",
+      "Provide guidance on foods that support skin and muscle health",
+      "Manage any dietary restrictions related to chronic conditions"
+    ],
+    "Mental Health and Emotional Support": [
+      "Assess for signs of depression, anxiety, or isolation",
+      "Provide referrals to mental health professionals, if needed",
+      "Encourage participation in support groups for individuals with mobility challenges",
+      "Offer counseling or therapy options for emotional well-being",
+      "Identify hobbies or activities that bring joy and fulfillment"
+    ],
+    "Social Engagement and Community Involvement": [
+      "Encourage participation in adaptive sports or recreational activities",
+      "Help the individual reconnect with friends and family",
+      "Identify volunteer opportunities or meaningful tasks",
+      "Coordinate with local organizations for group outings or events",
+      "Ensure access to virtual or in-person social networks"
+    ],
+    "Family and Caregiver Support": [
+      "Provide education on wheelchair care and transfer techniques to family members",
+      "Facilitate family meetings to set care goals and expectations",
+      "Offer respite care to relieve family caregivers",
+      "Connect caregivers with peer networks or support groups",
+      "Provide emotional support and counseling referrals for caregivers"
+    ],
+    "Safety and Home Accessibility": [
+      "Conduct a home safety assessment to ensure wheelchair accessibility",
+      "Install grab bars, non-slip mats, and accessible fixtures",
+      "Ensure smooth transitions between rooms (e.g., remove obstacles, widen doorways)",
+      "Provide personal emergency response systems (PERS) for emergency monitoring",
+      "Create an evacuation plan that considers mobility needs"
+    ],
+    "Technology and Adaptive Tools": [
+      "Introduce assistive devices (e.g., grabbers, voice-activated controls)",
+      "Provide training on the use of smartphones or tablets for communication",
+      "Explore smart home technology for accessibility (e.g., automated doors, lighting)",
+      "Offer telehealth options to reduce travel for appointments",
+      "Introduce apps for social engagement or personal care management"
+    ],
+    "Transportation Coordination": [
+      "Arrange accessible transportation for medical appointments and activities",
+      "Coordinate with transportation services that accommodate wheelchairs",
+      "Explore options for personal vehicle modifications (e.g., wheelchair ramps)",
+      "Provide information on public transit programs for individuals with disabilities",
+      "Encourage outings to promote independence and engagement"
+    ],
+    "Financial and Legal Coordination": [
+      "Assist with applying for disability benefits or insurance coverage",
+      "Provide information on financial assistance programs for mobility equipment",
+      "Coordinate with legal professionals for guardianship or advance care planning",
+      "Help manage medical bills and out-of-pocket expenses",
+      "Offer resources on grants or programs for home modifications"
+    ],
+    "End-of-Life and Long-Term Care Planning": [
+      "Discuss advance directives and care preferences with the individual and family",
+      "Coordinate with palliative care services to manage chronic symptoms",
+      "Monitor for signs that hospice care may be appropriate",
+      "Provide emotional and spiritual support to the individual and family",
+      "Ensure continuity of care with hospice or palliative care teams"
+    ]
+  }
+  

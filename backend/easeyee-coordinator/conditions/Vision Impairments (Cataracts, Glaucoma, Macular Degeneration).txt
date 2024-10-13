@@ -1,0 +1,87 @@
+{
+    "Medical Care Coordination": [
+      "Schedule regular follow-ups with ophthalmologist and PCP",
+      "Monitor for progressive eye conditions (e.g., glaucoma, diabetic retinopathy)",
+      "Coordinate with low vision specialists for treatment and rehabilitation",
+      "Manage medications related to eye health and other chronic conditions",
+      "Develop an emergency plan for sudden vision loss or medical emergencies"
+    ],
+    "Vision Rehabilitation and Assistive Devices": [
+      "Provide referrals to vision rehabilitation programs",
+      "Introduce low-vision aids (e.g., magnifiers, large-print materials)",
+      "Coordinate training on the use of screen readers and text-to-speech software",
+      "Explore wearable technology for navigation and reading assistance",
+      "Provide orientation and mobility training with a certified specialist"
+    ],
+    "Daily Living and Personal Care Support": [
+      "Assist with organizing personal items to promote independence",
+      "Provide tactile labels and Braille tools for medication management",
+      "Offer guidance on grooming, dressing, and hygiene routines",
+      "Encourage the use of accessible kitchen tools for meal preparation",
+      "Support with financial management tools (e.g., talking calculators)"
+    ],
+    "Physical Activity and Mobility Support": [
+      "Develop a personalized exercise plan with adaptive fitness routines",
+      "Coordinate with mobility trainers to teach cane or guide dog use",
+      "Encourage participation in physical activities like yoga or swimming",
+      "Monitor for balance issues or falls during physical activities",
+      "Arrange for accessible fitness equipment if needed"
+    ],
+    "Social Engagement and Emotional Support": [
+      "Assess for depression or anxiety related to vision loss",
+      "Provide referrals to mental health professionals or counselors",
+      "Encourage participation in support groups for visually impaired individuals",
+      "Facilitate social interactions with friends and family",
+      "Promote hobbies and interests (e.g., audio books, music)"
+    ],
+    "Technology and Adaptive Tools": [
+      "Introduce smartphones with accessibility features (e.g., voice commands)",
+      "Provide training on the use of screen readers and Braille displays",
+      "Explore GPS-based apps for navigation support",
+      "Offer voice-activated home devices for independent living",
+      "Encourage use of telehealth services for medical consultations"
+    ],
+    "Home Safety and Accessibility": [
+      "Conduct a home safety assessment to address hazards",
+      "Install tactile markings on stairs, doors, and appliances",
+      "Provide talking devices (e.g., clocks, thermometers, scales)",
+      "Ensure proper lighting and contrast throughout the home",
+      "Offer personal emergency response systems (PERS) for safety"
+    ],
+    "Family and Caregiver Support": [
+      "Provide education on visual impairment and communication strategies",
+      "Facilitate family meetings to set care goals and expectations",
+      "Offer respite care for family caregivers, if needed",
+      "Connect caregivers with peer networks or support groups",
+      "Provide emotional support and counseling referrals to caregivers"
+    ],
+    "Education and Employment Support": [
+      "Provide resources for continuing education or vocational training",
+      "Connect with employment services for visually impaired individuals",
+      "Offer assistive technology for workplace accommodations",
+      "Coordinate with employers for accessibility and job modifications",
+      "Encourage participation in skill development workshops"
+    ],
+    "Transportation Coordination": [
+      "Arrange accessible transportation for medical appointments and activities",
+      "Coordinate with paratransit or ride-sharing services",
+      "Explore subsidies or discount programs for transportation services",
+      "Offer mobility training for independent navigation",
+      "Encourage outings to maintain independence and social engagement"
+    ],
+    "Financial and Legal Coordination": [
+      "Assist with applying for disability benefits and insurance coverage",
+      "Provide information on financial assistance programs for assistive devices",
+      "Coordinate with legal professionals for guardianship or advance care planning",
+      "Help manage medical bills and other financial needs",
+      "Offer resources for tax benefits or grants for visually impaired individuals"
+    ],
+    "End-of-Life and Long-Term Care Planning": [
+      "Discuss advance directives and care preferences with the individual and family",
+      "Coordinate with palliative care services for chronic health conditions",
+      "Monitor for signs that hospice care may be needed",
+      "Provide emotional and spiritual support to the individual and family",
+      "Ensure continuity of care with hospice or long-term care providers"
+    ]
+  }
+  

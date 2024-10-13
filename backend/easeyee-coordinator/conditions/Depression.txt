@@ -1,0 +1,94 @@
+{
+    "Medical and Mental Health Coordination": [
+      "Schedule regular follow-ups with primary care physician (PCP) and mental health providers",
+      "Develop a personalized treatment plan with a psychiatrist or psychologist",
+      "Monitor and manage medications (e.g., antidepressants, mood stabilizers)",
+      "Screen for co-occurring conditions (e.g., anxiety, substance abuse, chronic pain)",
+      "Create a crisis intervention plan for severe symptoms (e.g., suicidal thoughts)"
+    ],
+    "Medication Management": [
+      "Develop a medication schedule to ensure adherence",
+      "Educate on the importance of taking medications as prescribed",
+      "Monitor for side effects (e.g., weight gain, fatigue, insomnia)",
+      "Coordinate with a pharmacist to avoid drug interactions",
+      "Provide guidance on tapering or switching medications under medical supervision"
+    ],
+    "Psychotherapy and Counseling": [
+      "Provide referrals for Cognitive Behavioral Therapy (CBT) or Dialectical Behavioral Therapy (DBT)",
+      "Explore options for group therapy or support groups",
+      "Offer referrals to specialized therapists (e.g., trauma-informed therapy, EMDR)",
+      "Encourage participation in regular counseling sessions",
+      "Provide telehealth options for easier access to therapy"
+    ],
+    "Lifestyle and Behavioral Support": [
+      "Encourage the establishment of a consistent daily routine",
+      "Promote participation in physical activities (e.g., walking, yoga, swimming)",
+      "Provide education on sleep hygiene to improve rest",
+      "Suggest mindfulness practices (e.g., meditation, deep breathing)",
+      "Monitor for avoidance behaviors that interfere with daily living"
+    ],
+    "Social Engagement and Support": [
+      "Encourage reconnecting with friends and family through regular interactions",
+      "Identify hobbies or activities that foster social engagement and joy",
+      "Promote participation in support groups or community programs",
+      "Explore volunteer opportunities to enhance a sense of purpose",
+      "Provide information on local or online social events"
+    ],
+    "Crisis and Safety Planning": [
+      "Develop a personalized safety plan to address self-harm or suicidal thoughts",
+      "Provide access to 24/7 crisis hotlines and mental health resources",
+      "Identify and remove potential safety hazards at home",
+      "Create a list of emergency contacts and resources",
+      "Ensure family or caregivers are aware of the crisis plan"
+    ],
+    "Family and Caregiver Support": [
+      "Provide education to family on depression and how to offer support",
+      "Facilitate family meetings to discuss care goals and progress",
+      "Offer referrals for family counseling or therapy if needed",
+      "Encourage family involvement in creating a supportive environment",
+      "Provide respite care to relieve caregiver burden"
+    ],
+    "Nutrition and Health Management": [
+      "Coordinate with a dietitian to develop a healthy meal plan",
+      "Monitor for signs of malnutrition or unhealthy eating patterns",
+      "Encourage regular hydration and balanced nutrition",
+      "Provide education on the impact of nutrition on mental health",
+      "Offer resources for meal planning and grocery shopping"
+    ],
+    "Technology and Self-Monitoring Tools": [
+      "Introduce apps for mood tracking and journaling",
+      "Encourage use of reminders for medication and therapy appointments",
+      "Provide access to mental health apps for relaxation and stress management",
+      "Explore telehealth services for regular check-ins with healthcare providers",
+      "Offer wearable technology to monitor sleep and activity levels"
+    ],
+    "Home Environment and Accessibility": [
+      "Ensure the living environment is organized and comfortable",
+      "Encourage decluttering and personalization of space to boost mood",
+      "Provide tools for easy access to daily needs (e.g., timers, alarms)",
+      "Monitor for signs of neglect or hoarding",
+      "Ensure access to outdoor spaces for fresh air and light exposure"
+    ],
+    "Smoking, Alcohol, and Substance Use Management": [
+      "Screen for substance use and provide referrals for treatment if needed",
+      "Coordinate with PCP for smoking cessation programs or nicotine replacement therapy",
+      "Educate on the impact of alcohol and drugs on mental health",
+      "Offer support for reducing alcohol consumption or quitting substance use",
+      "Encourage participation in recovery programs if needed"
+    ],
+    "Financial and Legal Coordination": [
+      "Assist with accessing insurance coverage for therapy and medications",
+      "Provide information on financial assistance programs for mental health care",
+      "Help manage medical bills and other healthcare-related expenses",
+      "Coordinate with legal professionals for advance care planning if needed",
+      "Connect with community resources for affordable mental health services"
+    ],
+    "End-of-Life and Palliative Care Planning (If Applicable)": [
+      "Discuss care preferences and advance directives with the individual and family",
+      "Provide referrals to spiritual or emotional support services",
+      "Coordinate with palliative care services if needed",
+      "Monitor for signs that hospice care may be appropriate",
+      "Ensure continuity of care with palliative care or hospice teams"
+    ]
+  }
+  

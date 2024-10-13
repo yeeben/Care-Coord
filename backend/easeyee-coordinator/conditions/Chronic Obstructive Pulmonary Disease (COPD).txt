@@ -1,0 +1,89 @@
+{
+    "Medical Care Coordination": [
+      "Schedule regular follow-ups with primary care physician (PCP) and pulmonologist",
+      "Monitor oxygen levels and lung function (spirometry, pulse oximetry)",
+      "Manage and review medications (inhalers, bronchodilators, corticosteroids)",
+      "Educate patient on proper inhaler technique",
+      "Coordinate vaccinations (flu, pneumonia, COVID-19)",
+      "Develop an emergency action plan for COPD exacerbations",
+      "Monitor for comorbid conditions (e.g., heart disease, sleep apnea)"
+    ],
+    "Respiratory Therapy and Pulmonary Rehabilitation": [
+      "Enroll patient in a pulmonary rehabilitation program (if applicable)",
+      "Coordinate with respiratory therapist for breathing exercises (e.g., pursed-lip breathing)",
+      "Provide training on energy-conserving techniques",
+      "Educate on chest physiotherapy to reduce mucus buildup",
+      "Arrange regular lung function tests to monitor progression"
+    ],
+    "Oxygen Therapy Coordination (If Required)": [
+      "Assess need for supplemental oxygen (resting and exertional)",
+      "Coordinate delivery of oxygen equipment and supplies",
+      "Educate patient on safe oxygen use (e.g., avoid open flames)",
+      "Monitor for oxygen dependence and adjust as needed",
+      "Schedule follow-ups to assess oxygen therapy effectiveness"
+    ],
+    "Medication Management": [
+      "Create a medication schedule to manage bronchodilators and steroids",
+      "Monitor for side effects (e.g., thrush from inhaled steroids)",
+      "Coordinate with pharmacist to ensure medication adherence",
+      "Educate on recognizing signs of exacerbation and when to adjust medications",
+      "Provide guidance on avoiding over-the-counter medications that may worsen symptoms"
+    ],
+    "Physical Activity and Mobility Support": [
+      "Develop an exercise plan to improve lung capacity (e.g., walking, light stretching)",
+      "Refer to physical therapy if needed to improve mobility and endurance",
+      "Monitor for shortness of breath during activities and adjust accordingly",
+      "Encourage participation in pulmonary rehabilitation exercises at home",
+      "Educate on pacing activities to conserve energy"
+    ],
+    "Nutrition and Weight Management": [
+      "Coordinate with a dietitian to develop a balanced meal plan",
+      "Monitor weight loss or gain (as both can affect COPD symptoms)",
+      "Encourage high-protein meals if underweight or muscle loss occurs",
+      "Provide guidance on foods that may contribute to bloating or discomfort",
+      "Educate on the importance of hydration for mucus management"
+    ],
+    "Social and Emotional Support": [
+      "Assess for anxiety or depression related to breathing difficulties",
+      "Provide referrals to mental health professionals (if needed)",
+      "Encourage participation in COPD support groups or peer networks",
+      "Offer companionship services to reduce isolation",
+      "Identify activities or hobbies that promote mental well-being"
+    ],
+    "Family and Caregiver Support": [
+      "Educate family on COPD management and emergency protocols",
+      "Provide guidance on how to support breathing exercises and energy management",
+      "Offer respite care to relieve family caregivers",
+      "Facilitate family meetings to set care goals and expectations",
+      "Connect caregivers with support groups or community resources"
+    ],
+    "Safety and Fall Prevention": [
+      "Conduct a home safety assessment to reduce fall risks (especially with oxygen equipment)",
+      "Install grab bars and ensure proper storage of oxygen supplies",
+      "Provide education on avoiding environmental triggers (e.g., smoke, allergens)",
+      "Offer personal emergency response systems (PERS) for emergency monitoring",
+      "Develop an emergency evacuation plan that considers oxygen needs"
+    ],
+    "Smoking Cessation Support (If Applicable)": [
+      "Provide referrals to smoking cessation programs",
+      "Coordinate with PCP or pulmonologist for nicotine replacement therapy (NRT)",
+      "Offer behavioral therapy or support groups for smoking cessation",
+      "Monitor for relapse and provide ongoing support",
+      "Educate family members on secondhand smoke risks"
+    ],
+    "Financial and Legal Coordination": [
+      "Assist with Medicare, Medicaid, or insurance coverage for medications and oxygen",
+      "Provide information on financial assistance programs for COPD care",
+      "Collaborate with legal professionals for advance care planning and health directives",
+      "Help patient manage medical bills and out-of-pocket expenses",
+      "Offer resources on disability benefits or vocational rehabilitation"
+    ],
+    "End-of-Life and Palliative Care Planning": [
+      "Discuss advance directives and care preferences with patient and family",
+      "Coordinate palliative care services to manage symptoms and improve quality of life",
+      "Monitor for signs that hospice care may be needed",
+      "Provide emotional and spiritual support for the patient and family",
+      "Ensure continuity of care with hospice or palliative care teams"
+    ]
+  }
+  

@@ -1,0 +1,87 @@
+{
+    "Medical Care Coordination": [
+      "Schedule regular follow-ups with primary care physician (PCP) and urologist",
+      "Monitor for recurrent infections with urine tests (urinalysis, urine culture)",
+      "Manage medications such as antibiotics and adjust based on infection patterns",
+      "Coordinate with pharmacists to avoid drug interactions",
+      "Develop an emergency plan for severe symptoms (e.g., fever, back pain, dehydration)"
+    ],
+    "Infection Prevention and Hygiene": [
+      "Educate on proper personal hygiene to prevent infections (e.g., front-to-back wiping)",
+      "Encourage frequent urination to flush out bacteria",
+      "Promote urination after sexual activity to reduce risk",
+      "Provide guidance on avoiding irritants (e.g., scented hygiene products, tight clothing)",
+      "Encourage wearing breathable, cotton underwear to prevent moisture buildup"
+    ],
+    "Hydration and Dietary Management": [
+      "Encourage increased fluid intake, particularly water, to flush the urinary system",
+      "Educate on avoiding caffeinated and sugary drinks that may irritate the bladder",
+      "Introduce cranberry supplements or juice (if recommended by a physician)",
+      "Monitor for signs of dehydration and adjust hydration levels",
+      "Encourage a balanced diet to support immune health"
+    ],
+    "Medication and Antibiotic Management": [
+      "Develop a medication schedule for antibiotics and other prescribed treatments",
+      "Educate on completing antibiotic courses fully to prevent resistance",
+      "Coordinate with the healthcare team for preventive antibiotic use, if needed",
+      "Monitor for side effects such as yeast infections or gastrointestinal issues",
+      "Avoid unnecessary use of antibiotics to prevent resistance"
+    ],
+    "Bladder Training and Lifestyle Modifications": [
+      "Encourage bladder training exercises to manage urgency and frequency",
+      "Provide education on pelvic floor exercises (e.g., Kegels) to strengthen bladder control",
+      "Limit intake of bladder irritants such as alcohol, caffeine, and spicy foods",
+      "Promote healthy bathroom habits, such as not holding in urine for too long",
+      "Monitor for urinary incontinence and provide referrals to specialists, if needed"
+    ],
+    "Mental Health and Emotional Support": [
+      "Assess for anxiety or stress related to recurrent UTIs",
+      "Provide referrals to mental health professionals or counselors as needed",
+      "Encourage participation in peer support groups for individuals with chronic infections",
+      "Offer emotional support to address concerns about intimacy and relationships",
+      "Promote stress-relief activities to enhance emotional well-being"
+    ],
+    "Family and Caregiver Support": [
+      "Provide education to caregivers on UTI management and prevention",
+      "Offer guidance on supporting hydration and medication adherence",
+      "Facilitate family meetings to set care goals and expectations",
+      "Connect caregivers with support groups and community resources",
+      "Offer respite care for family caregivers, if needed"
+    ],
+    "Technology and Self-Monitoring Tools": [
+      "Provide training on mobile apps for tracking symptoms and medication schedules",
+      "Introduce digital reminders for fluid intake and bathroom breaks",
+      "Explore telehealth options for remote consultations with physicians",
+      "Encourage the use of urine test kits at home to monitor for early signs of infection",
+      "Track patterns of infections to identify triggers and modify care plans"
+    ],
+    "Home Safety and Accessibility": [
+      "Ensure easy access to bathrooms to prevent accidents or urinary retention",
+      "Install grab bars and non-slip mats for safety in the bathroom",
+      "Provide nightlights to prevent falls during nighttime bathroom visits",
+      "Offer personal emergency response systems (PERS) for immediate assistance",
+      "Ensure clothing is easy to remove for quick bathroom access"
+    ],
+    "Sexual Health and Education": [
+      "Educate on safe sexual practices to reduce UTI risk",
+      "Provide guidance on post-intercourse hygiene routines",
+      "Address concerns about UTIs affecting intimacy and relationships",
+      "Coordinate with healthcare providers for contraceptive advice if needed",
+      "Offer support for partners in understanding and managing the condition"
+    ],
+    "Financial and Legal Coordination": [
+      "Assist with insurance coverage for medications and specialist visits",
+      "Provide information on financial assistance programs for UTI treatment",
+      "Help manage out-of-pocket medical expenses",
+      "Coordinate with legal professionals for advance care planning if necessary",
+      "Connect with community resources for affordable care options"
+    ],
+    "End-of-Life and Palliative Care Planning (If Applicable)": [
+      "Discuss advance directives and care preferences with the patient and family",
+      "Coordinate with palliative care teams for symptom management, if needed",
+      "Monitor for complications that may require additional care support",
+      "Provide emotional and spiritual support for long-term care planning",
+      "Ensure continuity of care with hospice or palliative care providers if necessary"
+    ]
+  }
+  
